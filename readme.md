@@ -3,7 +3,7 @@
 ## Introduction
 
 
-This project aims to provide a web-based platform to search and find a suitable hotel and restaurant, this web portal contains a lot of hotels information those data can be entered using its backend panel.
+This project aims to provide a web-based platform to search and find a suitable hotel and restaurant in Sri Lanka, this web portal contains a lot of hotels information those data can be entered using its backend panel. We can filter out hotels and restaurants based on district and division.
 
 
 ## Technology and Frameworks
@@ -39,30 +39,51 @@ This project aims to provide a web-based platform to search and find a suitable 
 
 ## System Explained
 
-### Login Page
+### Website Index Page
 
-This is the login page of this system, it has three text boxes, the first one indicates the account type, there are two types of accounts are available in this system, those are admin accounts and student accounts.
+This is the front page of the website. It contains some basic information of the online platform.
 
-This login page has been developed with HTML 5, CSS 3, JavaScript and then some frameworks such as jQuery and Bootstrap.   
+![Sitemap](github-readme-contents/web-page.gif)
 
 
-![Sitemap](github-readme-contents/login-page.png)
+### Search Page
 
-#### Admin Login
+This page has a filter feature where visitors are able to search and find information of hotels and restaurants in Sri Lanka, the search could used to filter restaurants and hotels based on districts.
 
-- **Username:** admin
-- **Password:** admin
+![Sitemap](github-readme-contents/search.gif)
 
-#### Sample Student login
 
-- **Username:** student1
-- **Password:** pass123
+### Admin Page
+
+```
+http://www.domain-name.com/admin_login.php
+
+```
+
+**Note:** The admin page is hidden, in order to open the admin panel, we have to type **"/admin_login.php"** after the domain name of this platform, an example is shown bellow.
+
+### Admin Login
+
+![Sitemap](github-readme-contents/login-page.jpg)
+
+#### Credentials
+
+- **Username:** guna
+- **Password:** kuna123
+
 
 ### Admin Account
 
-This is the admin panel. It contain eight modules such as student, staff, courses, Batches, Department, Modules, Results, and Student Accounts.
+This is the admin panel. It contain six modules such as Dashboard, Register Hotels, modify hotels, Cerate Gallery, Preview, Settings, Logout.
 
-The admin has an account setting module on the right side of the header bar that includes all the details of this system such as personal details, and credentials, the system's theme and etc. The admin can change the password, username, profile picture, and theme of the system.
+- **Dashboard:** Has a simple UI.
+- **Register Hotels:** has the function to register hotels.
+- **Modify Hotels:** has delete/edit function.
+- **Cerate Gallery:** has function to create gallery for registered hotels.
+- **Preview:** has function to preview hotel info as visitors.
+- **Settings:** has function to change credentials such as password.
+- **Logout:** has function to logout. 
+
 
 ![Sitemap](github-readme-contents/admin-account.png)
 
