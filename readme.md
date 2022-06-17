@@ -1,10 +1,13 @@
-# E-BCAS
+# Find Your Hotel
 
 ## Introduction
 
-BRITISH COLLEGE OF APPLIED STUDIES (BCAS) is one of the vocational and tertiary providers in Sri Lanka in the field of private higher education since 1999.
 
-The project E-BCAS aims to provide a web-based management solution to maintain the day-to-day operations and internal activities such as student management, result management and etc.
+This project aims to provide a web-based platform to search and find a suitable hotel and restaurants, this web portal contains a lot of hotels information those data can be entered using its backend panel.
+
+This is a website, the visitors can search and find hotels for them. 
+
+
 
 ### System Structure
 
