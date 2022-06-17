@@ -159,7 +159,7 @@ Web testing is a software testing practice to test websites or web applications 
 
 #### Testing script output.
 
-![Sitemap](github-readme-contents/testing-output.gif)
+![Sitemap](github-readme-contents/testing.gif)
 
 ## Social Media Links
 
