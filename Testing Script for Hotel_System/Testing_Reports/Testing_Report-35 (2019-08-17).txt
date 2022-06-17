@@ -1,0 +1,21 @@
+The Testing Started on 23:31:35
+================================
+
+The system was logged in on 23:31:38
+
+The Regiser Hotel module was clicked on 23:31:39
+
+Data 1 has been Inserted
+
+Data 2 has been Inserted
+
+Data 3 has been Inserted
+
+Data 4 has been Inserted
+
+Data 5 has been Inserted
+
+Data 6 has been Inserted
+
+Data 7 has been Inserted
+

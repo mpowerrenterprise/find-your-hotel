@@ -1,0 +1,9 @@
+The Testing Started on 11:56:27
+================================
+
+The system was logged in on 11:56:30
+
+The Regiser Hotel module was clicked on 11:56:31
+
+The Modify Module was Passed on 11:56:34
+
