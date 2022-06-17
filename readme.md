@@ -3,63 +3,8 @@
 ## Introduction
 
 
-This project aims to provide a web-based platform to search and find a suitable hotel and restaurants, this web portal contains a lot of hotels information those data can be entered using its backend panel.
+This project aims to provide a web-based platform to search and find a suitable hotel and restaurant, this web portal contains a lot of hotels information those data can be entered using its backend panel.
 
-This is a website, the visitors can search and find hotels for them. 
-
-
-
-### System Structure
-
-The following site map clearly explains the structure of the E-BCAS system. This system consists of two types of accounts, which are student accounts and admin accounts. The admin has the administrative permissions such as from registering students to creating student user accounts and etc.
-
-![Sitemap](github-readme-contents/sitemap.jpg)
-
-
-### Wireframe
-
-![Sitemap](github-readme-contents/wireframe.png)
-
-
-### ER-Diagram
-
-![Sitemap](github-readme-contents/er-diagram.jpg)
-
-
-### Features and Functionalities
-
-**Admin Account**
-
-- The admin account has all the privileges of the system.
-
-- The admin has functionalities to register student, staff and manage details such as deleting, updating, changing password, username, profile picture and etc.
-
-- The admin has privilege to manage course details such as add course, manage details and, CRUD functions.
-
-- The admin has to have the permission to maintain the batch details such as organizing batch number, creating batches including CRUD functions.
-
-- The admin has the department management module which can be used to manage the infrastructure of the organization.
-
-- The admin has the functionalities to manage and organize subjects to the right corresponding courses.
-
-- The admin should have the permission to manage results.
-
-- The admin has the ability to create user accounts for students.
-
-- The admin has a settings module which is used to manage its internal functions such as changing name, password, username, profile picture etc.
-
-- The admin has the option to change its theme.
-
-
-**Students Account**
-
-- The student has a dashboard to view their results.
-
-- The student account has a permission to change their password.
-
-- The student has ability to change the profile picture.
-
-- The student account has ability to change its theme.
 
 ## Technology and Frameworks
 
@@ -70,19 +15,11 @@ The following site map clearly explains the structure of the E-BCAS system. This
 - JavaScript
 - jQuery
 - Bootstrap 4
-- JSON
-- AJAX
 
 ### Backend
-
-- PHP 5.3.7
-- CodeIgniter 3.1.9
+- PHP
 - MySQL
 
-
-### Other tools
-
-- Composer
 
 
 ## Directory Structure
