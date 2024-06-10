@@ -1,4 +1,4 @@
-# FIND YOUR HOTEL
+# Find Your Hotel
 
 ## Introduction
 
@@ -161,7 +161,7 @@ Web testing is a software testing practice to test websites or web applications 
 
 ![Sitemap](github-readme-contents/testing.gif)
 
-# CONTACT
+# Contact
 
 ### Website: 
 
