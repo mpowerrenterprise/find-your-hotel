@@ -1,4 +1,4 @@
-# Find Your Hotel
+# FIND YOUR HOTEL
 
 ## Introduction
 
@@ -165,7 +165,7 @@ Web testing is a software testing practice to test websites or web applications 
 
 ### Website: 
 
-[![Website](https://img.shields.io/badge/Website%3A%20www.gunarakulan.info-%23E01E5A?style=flat&logo=realm&logoColor=white)](http://www.gunarakulan.info)
+[![Visit](https://img.shields.io/badge/Visit%3A%20www.gunarakulan.info-%23E01E5A?style=flat&logo=realm&logoColor=white)](https://www.gunarakulan.info)
 
 ### Social Media:
 
